@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto Mono', sans-serif;
-    background-color: #8e44ad;
+    background: radial-gradient(circle, rgba(251,162,63,1) 0%, rgba(252,89,70,1) 100%);
     color: #fff;
     margin: 0;
     display: flex;
